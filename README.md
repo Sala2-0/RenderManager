@@ -12,3 +12,5 @@ Render Manager enhances minimap_renderer with extra features
 2. Unzip both zip files.
 3. In the unzipped renderer folder, move "Renderer" folder to the unzipped application folder.
 4. Find "RenderManager.exe" and run it.
+
+Because minimap renderer needs to be updated with every game version, you need to update the renderer as well. Just download the latest renderer from latest release and replace your current "Renderer" folder with the new one.
